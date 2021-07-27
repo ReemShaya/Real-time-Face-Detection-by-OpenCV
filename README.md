@@ -26,7 +26,7 @@ Then I downloaded the OpenCV library by typing this command :
 Then I downloaded the code on [this page](https://github.com/AShenaifi/OpenCV), decompressed the file and then copied the path as in the picture :
 
 
-![image](![ريمي](https://user-images.githubusercontent.com/85775606/127189248-869f827a-df41-4c12-9aa8-b5ac622194ca.png)
+(![ريمي](https://user-images.githubusercontent.com/85775606/127189248-869f827a-df41-4c12-9aa8-b5ac622194ca.png)
 
 
 <br /> 
